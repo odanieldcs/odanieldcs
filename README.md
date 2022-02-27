@@ -2,7 +2,7 @@
 ### Hey There, i'm Daniel Castro! 🤟🏼
 
 I'm a Full-stack Developer, primarily focused on web application development. 
-I like working and sharing about coding, best practices, software architecture and technologies such as React,Next.js, Node.js, AWS, GCP, Postgre, MongoDb, Docker and more.
+I like working and sharing about coding, best practices, software architecture and technologies such as React, Next.js, Node.js, AWS, GCP, Postgre, MongoDB, Docker and more.
 
 How to reach me?
 
