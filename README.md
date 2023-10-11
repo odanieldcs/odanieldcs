@@ -1,9 +1,11 @@
 
 ## Hey there, I'm Daniel Castro! ✌🏼
 
-I'm a Full Stack Developer and Educator. I enjoy sharing my knowledge about Web Dev and helping other Devs, writing articles on my blog, sharing content on my social media, performing live, recording private lessons for my courses, and performing pull requests.
+I'm a Full Stack Developer and Educator. 
 
-However, you'll also find me sharing about traveling, lifestyle, quality time with family, and playing sports, like running and going to the gym.
+I enjoy sharing my knowledge about Web Dev and helping other Devs, writing articles on my blog, sharing content on my social media, performing live, recording private lessons for my courses, and performing pull requests.
+
+However, you'll also find me sharing about travel, lifestyle, family, and playing sports, like running and going to the gym.
 
 #### Current Stack:
 TypeScript, JavaScript, Node.js, PHP, C#, GraphQL, React, NEXT.js, TailwindCSS, Styled Components, Prisma, Knexjs, PostgreSQL, MongoDB, Redis, K8S, Docker, Serverless, AWS, and GCP.
