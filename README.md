@@ -1,7 +1,7 @@
 
 ## Hey there, I'm Daniel Castro! ✌🏼
 
-As a Full-Stack Developer and Educator, I enjoy sharing my knowledge about Web Dev and helping other Devs, writing articles on my blog, sharing content on my social media, performing live, recording private lessons for my courses, and performing pull requests.
+As a Full-Stack Developer and Educator, I enjoy sharing my knowledge about Web Dev and helping other Devs, writing articles on my blog, sharing content on my social media, recording private lessons for my courses, and performing pull requests.
 
 However, you'll also find me sharing about travel, lifestyle, family, and playing sports, like running and going to the gym.
 
