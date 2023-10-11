@@ -1,10 +1,14 @@
 
-### Hey There, i'm Daniel Castro! 🤟🏼
+## Hey there, I'm Daniel Castro! ✌🏼
 
-I'm a Full-stack Developer, primarily focused on web application development. 
-I like working and sharing about coding, best practices, software architecture and technologies such as React, Next.js, Node.js, AWS, GCP, Postgre, MongoDB, Docker and more.
+I'm a Full Stack Developer and Educator. I enjoy sharing my knowledge about Web Dev and helping other Devs, writing articles on my blog, sharing content on my social media, performing live, recording private lessons for my courses, and performing pull requests.
 
-How to reach me?
+However, you'll also find me sharing about traveling, lifestyle, quality time with family, and playing sports, like running and going to the gym.
+
+#### Current Stack:
+TypeScript, JavaScript, Node.js, PHP, C#, GraphQL, React, NEXT.js, TailwindCSS, Styled Components, Prisma, Knexjs, PostgreSQL, MongoDB, Redis, K8S, Docker, Serverless, AWS, and GCP.
+
+#### How to reach me?
 
 [![Blog Badge](https://img.shields.io/badge/Blog-danieldcs.com-black)](https://danieldcs.com/)
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/c/odanieldcs)](https://www.youtube.com/c/odanieldcs)
