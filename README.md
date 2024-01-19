@@ -3,7 +3,7 @@
 
 As a Full Stack Developer and Educator, with 10+ years of experience in SDLC, over the years, I worked on the design, development, and delivering applications from scratch to SaaS projects for B2B and B2C.
 
-My commitment to ongoing learning, collaboration, and healthy habits is integral to my life values. ✌🏼
+My commitment to ongoing learning, collaboration, and healthy habits is integral to my life values.
 
 #### Current Stack:
 TypeScript, JavaScript, Node.js, Express JS, CSharp, GraphQL, React, NEXT.js, TailwindCSS, Styled Components, Sequelize, Knexjs, Prisma, Postgre SQL, MongoDB, Redis, K8S, Docker, Serverless, AWS, and GCP.
