@@ -1,12 +1,12 @@
 
 ## Hey there, I'm Daniel Castro! ✌🏼
 
-As a Full-Stack Developer and Educator, I enjoy sharing my knowledge about Web Dev and helping other Devs, writing articles on my blog, sharing content on my social media, recording private lessons for my courses, and performing pull requests.
+As a Full Stack Developer and Educator, with 10+ years of experience in SDLC, over the years, I worked on the design, development, and delivering applications from scratch to SaaS projects for B2B and B2C.
 
-However, you'll also find me sharing about travel, lifestyle, family, and playing sports, like running and going to the gym.
+My commitment to ongoing learning, collaboration, and healthy habits is integral to my life values. ✌🏼
 
 #### Current Stack:
-TypeScript, JavaScript, Node.js, PHP, C#, GraphQL, React, NEXT.js, TailwindCSS, Styled Components, Prisma, Knexjs, PostgreSQL, MongoDB, Redis, K8S, Docker, Serverless, AWS, and GCP.
+TypeScript, JavaScript, Node.js, Express JS, CSharp, GraphQL, React, NEXT.js, TailwindCSS, Styled Components, Sequelize, Knexjs, Prisma, Postgre SQL, MongoDB, Redis, K8S, Docker, Serverless, AWS, and GCP.
 
 #### How to reach me?
 
