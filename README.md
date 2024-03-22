@@ -1,16 +1,16 @@
+### Hey, I'm Daniel! 👋🏼
 
-## Hey there! ✌🏼
+I'm Daniel, a full-stack software developer with 10+ years of experience in SDLC.<br>
+Over the years, I have worked on designing, developing, and delivering applications from scratch.
 
-I'm Daniel, a software developer with 10+ years of experience in SDLC. Over the years, I have worked on designing, developing, and delivering applications from scratch.
+### Current stack 👨🏻‍💻
+TypeScript, React, NEXT.js, Remix, Tailwind CSS, Testing Library, Playwright, and Cypress.<br>
+Node.js, Express JS, GraphQL, Prisma ORM, Sequelize, Knex.js, Postgre SQL, SQL Lite, MongoDB, and Redis.<br>
+K8S, Docker, GitHub Actions, Fly.io, Supabase, Firebase, AWS, and GCP.
 
-#### Current Stack:
-TypeScript, React, Remix, NEXT.js, Tailwind CSS, Styled Components, Radix UI, Playwright, Cypress.
-JavaScript, Node.js, Express.js, GraphQL, Prisma, Sequelize, Knex.js, Postgre SQL, MongoDB, and Redis.
-Kubernetes, Docker, GitHub Actions, Fly.io, Supabase, Firebase, AWS, and GCP.
-
-#### How would you like to reach me?
-[![Blog Badge](https://img.shields.io/badge/Blog-danieldcs.com-black)](https://danieldcs.com/)
-[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/c/odanieldcs)](https://www.youtube.com/c/odanieldcs)
-[![Instagram Badge](https://img.shields.io/badge/-odanieldcs-bf360c?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/odanieldcs)](https://www.instagram.com/odanieldcs/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/odanieldcs)](https://twitter.com/odanieldcs)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/odanieldcs)](https://www.linkedin.com/in/odanieldcs)
+### Find me? 🔍
+🚀 [Site & Blog](https://danieldcs.com/)<br>
+📺 [YouTube](https://www.youtube.com/c/odanieldcs)<br>
+📷 [Instagram](https://www.instagram.com/odanieldcs/)<br>
+🐦 [Twitter / X](https://twitter.com/odanieldcs)<br>
+💼 [LinkedIn](https://www.linkedin.com/in/odanieldcs)
