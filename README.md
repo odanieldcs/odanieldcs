@@ -1,6 +1,6 @@
 ### Hey, I'm Daniel! 👋🏼
 
-I'm Daniel, a full-stack software developer with 10+ years of experience in SDLC.<br>
+I'm a full-stack software developer with 10+ years of experience in SDLC.<br>
 Over the years, I have worked on designing, developing, and delivering applications from scratch.
 
 ### Current stack 👨🏻‍💻
