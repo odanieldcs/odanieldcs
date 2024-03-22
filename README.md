@@ -1,15 +1,14 @@
 
-## Hey there, I'm Daniel Castro! ✌🏼
+## Hey there! ✌🏼
 
-As a Full Stack Developer and Educator, with 10+ years of experience in SDLC, over the years, I worked on the design, development, and delivering applications from scratch to SaaS projects for B2B and B2C.
-
-My commitment to ongoing learning, collaboration, and healthy habits is integral to my life values.
+I'm Daniel, a software developer with 10+ years of experience in SDLC. Over the years, I have worked on designing, developing, and delivering applications from scratch.
 
 #### Current Stack:
-TypeScript, JavaScript, Node.js, Express JS, CSharp, GraphQL, React, NEXT.js, TailwindCSS, Styled Components, Sequelize, Knexjs, Prisma, Postgre SQL, MongoDB, Redis, K8S, Docker, Serverless, AWS, and GCP.
+TypeScript, React, Remix, NEXT.js, Tailwind CSS, Styled Components, Radix UI, Playwright, Cypress.
+JavaScript, Node.js, Express.js, GraphQL, Prisma, Sequelize, Knex.js, Postgre SQL, MongoDB, and Redis.
+Kubernetes, Docker, GitHub Actions, Fly.io, Supabase, Firebase, AWS, and GCP.
 
-#### How to reach me?
-
+#### How would you like to reach me?
 [![Blog Badge](https://img.shields.io/badge/Blog-danieldcs.com-black)](https://danieldcs.com/)
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/c/odanieldcs)](https://www.youtube.com/c/odanieldcs)
 [![Instagram Badge](https://img.shields.io/badge/-odanieldcs-bf360c?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/odanieldcs)](https://www.instagram.com/odanieldcs/)
