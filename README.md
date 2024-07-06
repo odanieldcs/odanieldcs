@@ -1,12 +1,12 @@
 ### Hey, I'm Daniel! 👋🏼
 
-I'm a full-stack software developer with 10+ years of experience in SDLC.<br>
-Over the years, I have worked on designing, developing, and delivering applications from scratch.
+A seasoned software developer with 15+ years of Software Development Life Cycle experience (SDLC).
+Over the years, I've specialized in leading full-stack web application development from scratch to production.
 
 ### My current stack 👨🏻‍💻
-TypeScript, React, NEXT.js, Remix, Tailwind CSS, Testing Library, Playwright, and Cypress.<br>
+TypeScript, React, NEXT.js, Remix, CSS/Sass, Shadcn/UI, Tailwind CSS, Testing Library, Playwright, Cypress, Sanity, and Strapi.<br>
 Node.js, Express JS, GraphQL, Prisma ORM, Sequelize, Knex.js, Postgre SQL, SQL Lite, MongoDB, and Redis.<br>
-K8S, Docker, GitHub Actions, Fly.io, Supabase, Firebase, AWS, and GCP.
+C#, PHP, Docker, K8S, GitHub Actions, Fly.io, Supabase, Firebase, AWS, Azure, and GCP.
 
 ### Find me here 🔍
 🚀 [Site](https://danieldcs.com/)<br>
