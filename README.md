@@ -1,6 +1,6 @@
 <h1 align="left">Hi there, I'm Daniel</h1>
 
-<h3 align="left">Here, It's one place where I tinker with my ideas, POCs, and free content. As a software engineer and educator, I focus on crafting <b>better software and helping develop developer's skills</b>. Passionate about working and leading on full-stack web applications from scratch.</h3>
+<h3 align="left">Here, It's one place where I tinker with my ideas and free content. As a Software Engineer and Educator, I focus on crafting better software and helping developers develop their skills.</h3>
 
 <br />
 
