@@ -1,15 +1,21 @@
 ## I'm Daniel Castro! 👋🏼
 
-Software engineer, making stuff with web applications. Passionate about learning and sharing dev-to-dev knowledge.
+Software Engineer, building and fixing things for the web since 2010, always learning and sharing dev-to-dev insights.
 
-Let's connect and talk about engineering, leading, or developer experience.
+Let’s connect and talk engineering, leadership, or dev experience.
 
-- **Connect**: <a href="https://www.linkedin.com/in/odanieldcs" target="_blank">LinkedIn</a>
-- **Read**: <a href="https://danieldcs.com/" title="Blog">My blog</a>
-- **Watch**: <a href="https://www.youtube.com/c/odanieldcs" title="Subscribe">YouTube</a>
-- **Subscribe**: <a href="https://danieldcs.com/newsletter" title="Newsletter">Newsletter</a> or <a href="https://danieldcs.com/telegram" title="Telegram">Telegram</a>
-- **Follow me**: <a href="https://danieldcs.com/" title="Instagram">Instagram</a>
+--
 
-**Current Stack**
+📌 **Connect**: [LinkedIn](https://www.linkedin.com/in/odanieldcs)  
+📝 **Read**: [My blog](https://danieldcs.com)  
+📺 **Watch**: [YouTube](https://www.youtube.com/c/odanieldcs)  
+📸 **Follow me**: [Instagram](https://instagram.com/odanieldcs)  
+📬 **Subscribe**: [Newsletter](https://danieldcs.com/newsletter) or [Telegram](https://danieldcs.com/telegram)  
 
-- Node.js, TypeScript, React, Next.js, Express, GraphQL, Docker, Postgres SQL, Prisma, AI, RAG, AWS, GCP, Fly.io, GitHub Actions.
+--
+
+### Currently working with:
+
+Node.js, TypeScript, React, Next.js, Tailwind CSS, Radix UI, Express, GraphQL, Apollo GraphQL  
+Prisma, PostgreSQL, Docker, AWS, GCP, Fly.io, GitHub Actions  
+Microservices, OpenAI, RAG, LLaMA, LangGraph
