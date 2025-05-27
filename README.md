@@ -1,8 +1,8 @@
 ## I'm Daniel Castro! 👋🏼
 
-Software engineer, making stuff, and building rich web applications. Passionate about learning and sharing dev-to-dev knowledge.
+Software engineer, making stuff with web applications. Passionate about learning and sharing dev-to-dev knowledge.
 
-Let's connect:
+Let's connect and talk about engineering, leading, or developer experience.
 
 - **Connect**: <a href="https://www.linkedin.com/in/odanieldcs" target="_blank">LinkedIn</a>
 - **Read**: <a href="https://danieldcs.com/" title="Blog">My blog</a>
@@ -12,4 +12,4 @@ Let's connect:
 
 **Current Stack**
 
-Node.js, TypeScript, React, Next.js, Express, GraphQL, Docker, Postgres SQL, Prisma, AI, RAG, AWS, GCP, Fly.io, GitHub Actions.
+- Node.js, TypeScript, React, Next.js, Express, GraphQL, Docker, Postgres SQL, Prisma, AI, RAG, AWS, GCP, Fly.io, GitHub Actions.
