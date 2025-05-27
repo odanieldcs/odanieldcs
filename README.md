@@ -1,20 +1,15 @@
-<h1 align="left">Hi there, I'm Daniel</h1>
+## I'm Daniel Castro! 👋🏼
 
-<h3 align="left">Here, It's one place where I tinker with my ideas and free content. As a Software Engineer and Educator, I focus on crafting better software and helping developers develop their skills.</h3>
+Software engineer, making stuff, and building rich web applications. Passionate about learning and sharing dev-to-dev knowledge.
 
-<br />
+Let's connect:
 
-Coding and fixing bugs since 2010. Sharing real content from <b>Dev to Devs</b>. 🎯
+- **Connect**: <a href="https://www.linkedin.com/in/odanieldcs" target="_blank">LinkedIn</a>
+- **Read**: <a href="https://danieldcs.com/" title="Blog">My blog</a>
+- **Watch**: <a href="https://www.youtube.com/c/odanieldcs" title="Subscribe">YouTube</a>
+- **Subscribe**: <a href="https://danieldcs.com/newsletter" title="Newsletter">Newsletter</a> or <a href="https://danieldcs.com/telegram" title="Telegram">Telegram</a>
+- **Follow me**: <a href="https://danieldcs.com/" title="Instagram">Instagram</a>
 
-- Read about my professional experience on <b><a href="https://www.linkedin.com/in/odanieldcs" target="_blank">LinkedIn</a></b>, and let's connect.
-- Watch my live streams on my <b><a href="https://www.youtube.com/c/odanieldcs" title="Subscribe on my channel">YouTube Channel</a></b>.
-- Subscribe to the <b><a href="https://danieldcs.com/newsletter" title="Subscribe on news">newsletter</a></b> or <b><a href="https://danieldcs.com/telegram" title="Subscribe on Telegram">telegram</a></b> channel to receive Developer Contents.
-- To reach out or read my posts, access <b><a href="https://danieldcs.com/" title="Blog and Website">my website</a></b> or follow me on <b><a href="https://danieldcs.com/" title="Blog and Website">Instagram</a></b>.
+**Current Stack**
 
-<br />
-
-### Current Stack 🧰
-TS, JS, React, NEXT.js, Remix, Vite, CSS, Sass, Tailwind CSS, Shadcn/UI, RTL, Playwright, Sanity, and Strapi.<br>
-Node.js, Express, GraphQL, Prisma ORM, Sequelize, Knex.js, Postgre SQL, SQL Lite, MongoDB, and Redis.<br>
-CSharp, PHP, Docker, K8S, GitHub Actions, Fly.io, Supabase, Firebase, AWS, Azure, and GCP.
-
+Node.js, TypeScript, React, Next.js, Express, GraphQL, Docker, Postgres SQL, Prisma, AI, RAG, AWS, GCP, Fly.io, GitHub Actions.
