@@ -1,21 +1,22 @@
 ## I'm Daniel Castro! 👋🏼
 
-Software Engineer, building and fixing things for the web since 2010, always learning and sharing dev-to-dev insights.
+Senior Full-Stack Engineer, building and fixing web stuff since 2005. I also give talks and teach courses on RAG and full-stack development.
 
-Let’s connect and talk engineering, leadership, or dev experience.
+Let's connect and talk engineering, leadership, or developer experience.
 
---
+---
 
 📌 **Connect**: [LinkedIn](https://www.linkedin.com/in/odanieldcs)  
 📝 **Read**: [My blog](https://danieldcs.com)  
 📺 **Watch**: [YouTube](https://www.youtube.com/c/odanieldcs)  
 📸 **Follow me**: [Instagram](https://instagram.com/odanieldcs)  
-📬 **Subscribe**: [Newsletter](https://danieldcs.com/newsletter) or [Telegram](https://danieldcs.com/telegram)  
+📬 **Subscribe**: [Newsletter](https://danieldcs.com/newsletter) or [Telegram](https://danieldcs.com/telegram)
 
---
+---
 
-### Currently working with:
+### Currently working with
 
-Node.js, TypeScript, React, Next.js, Tailwind CSS, Radix UI, Express, GraphQL, Apollo GraphQL  
-Prisma, PostgreSQL, Docker, AWS, GCP, Fly.io, GitHub Actions  
-Microservices, OpenAI, RAG, LLaMA, LangGraph
+**Frontend:** TypeScript, React, Next.js, Remix, Tailwind CSS, Radix UI
+**Backend:** Node.js, Hono, Express, GraphQL, PostgreSQL, Drizzle, Prisma, Redis
+**Infra:** Docker, AWS, GCP, Vercel, Fly.io, GitHub Actions
+**AI:** Vercel AI SDK, OpenAI API, RAG, Claude Code, Cursor
