@@ -16,7 +16,7 @@ Let's connect and talk engineering, leadership, or developer experience.
 
 ### Currently working with
 
-**Frontend:** TypeScript, React, Next.js, Remix, Tailwind CSS, Radix UI
-**Backend:** Node.js, Hono, Express, GraphQL, PostgreSQL, Drizzle, Prisma, Redis
-**Infra:** Docker, AWS, GCP, Vercel, Fly.io, GitHub Actions
-**AI:** Vercel AI SDK, OpenAI API, RAG, Claude Code, Cursor
+- **Frontend:** TypeScript, React, Next.js, Tailwind CSS, Vitest
+- **Backend:** Node.js, Hono, Python, GraphQL, REST, PostgreSQL, Redis
+- **Cloud & AI:** AWS, GCP, Vercel, Docker, Vercel AI SDK, OpenAI API, RAG, Claude Code, Cursor
+- **Architecture:** Event-driven, Multi-tenancy, Monorepo, Serverless
