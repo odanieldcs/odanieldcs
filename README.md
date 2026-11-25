@@ -1,8 +1,6 @@
 ## I'm Daniel Castro! 👋🏼
 
-Senior Full-Stack Engineer, building and fixing web stuff since 2005. I also give talks and teach courses on RAG and full-stack development.
-
-Let's connect and talk engineering, leadership, or developer experience.
+Senior Full-Stack Engineer, building and fixing web stuff since 2005. I also give talks and teach courses on RAG and full-stack development. Let's connect and talk engineering, leadership, or developer experience.
 
 ---
 
@@ -18,5 +16,5 @@ Let's connect and talk engineering, leadership, or developer experience.
 
 - **Frontend:** TypeScript, React, Next.js, Tailwind CSS, Vitest
 - **Backend:** Node.js, Hono, Python, GraphQL, REST, PostgreSQL, Redis
-- **Cloud & AI:** AWS, GCP, Vercel, Docker, Vercel AI SDK, OpenAI API, RAG, Claude Code, Cursor
+- **Cloud & AI:** AWS, GCP, Vercel, Docker, Vercel AI SDK, OpenAI API, RAG, Claude Code, Codex, Cursor
 - **Architecture:** Event-driven, Multi-tenancy, Monorepo, Serverless
